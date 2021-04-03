@@ -2,4 +2,4 @@
 
 # Simple Multithread Java echo client-server with additional classes which creates objects by using data from file dane.txt
 
-# Comments in polish.
+# Comments and javadoc in polish.
